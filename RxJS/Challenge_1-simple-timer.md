@@ -1,4 +1,4 @@
-# Task: Create a Simple Timer
+# Challenge 1: Simple Timer
 Objective
 Understand how to create and subscribe to observables in RxJS using interval, take, and map. By the end of this task, the learner should be comfortable creating a timer observable and using it to display numbers in the UI.
 
